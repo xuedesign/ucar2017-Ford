@@ -79,29 +79,36 @@
     text-align: center}
 #extend-list{
     display: block;
-    float: left;
-    width: 625px;
+    width: 957px;
     padding-right: 30px}
 #extend-list a{
     text-decoration: none}
 #extend-list a:hover{
     text-decoration: underline}
+#extend-list ul{
+    display: block;
+    width: 950px;
+    margin: 0 auto}
 #extend-list li{
-    padding-bottom: 30px}
+    display: inline-block;
+    width: 470px;
+    padding-bottom: 30px;
+    vertical-align: top}
 #box_extend img{
     display: block;
     float: left;
-    width: 300px}
+    width: 200px;
+    height: auto}
 .extend-info{
     display: block;
     float: right;
-    width: 320px;
-    padding-top: 20px}
-#extend-adad{
+    width: 260px;
+    padding-top: 0}
+/*#extend-adad{
     display: block;
     float: right;
     width: 301px;
-    padding-right: 1px}
+    padding-right: 1px}*/
 #box_extend:after,
 #extend-list li:after{
     display: block;
@@ -118,10 +125,16 @@
     display: block;
     float: left;
     width: 202px;
+    height: 240px;
+    overflow: hidden;
     margin-right: 16px}
+#box_related li:nth-child(3),
+#box_related li:nth-child(6),
+#box_related li:nth-child(9){
+    margin-right: 0}
 #box_related img{
     display: block;
-    width: 202px;
+    width: 200px;
     margin: 0 0 15px;
     padding: 0}
 
