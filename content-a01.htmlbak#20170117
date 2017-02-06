@@ -9,8 +9,8 @@
     <meta name="keywords" content="四款車型同步登場，Ford大改款Fiesta德國柯隆現身－U-CAR車壇新聞">
 	<meta name="description" content="Ford 於2016年11月30日在德國科隆舉行的Go Further品牌高峰會中，推出了新一代Fiesta車系，且一口氣展演了四種不同車型，包含講求個性化、可視為Fiesta車系基礎的Titanium系列車型，以性能風格為訴求的ST-Line、精品化設計的Vignale系列、以及加入跨界風格的Active crossover車款。">
 	<title>四款車型同步登場，Ford大改款Fiesta德國柯隆現身－U-CAR車壇新聞</title>
-    <link rel="stylesheet" type="text/css" href="http://news.u-car.com.tw/css/style.css" />
-    <link rel="stylesheet" type="text/css" href="http://news.u-car.com.tw/css/layout.css" />
+    <link rel="stylesheet" type="text/css" href="https://news.u-car.com.tw/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="https://news.u-car.com.tw/css/layout.css" />
     <!--[if IE]>
         <link rel="stylesheet" type="text/css" href="css/ieonly.css" />
     <![endif]-->
@@ -53,13 +53,13 @@
     </script>-->
 
     <link rel="stylesheet" type="text/css" href="http://news.u-car.com.tw/css/detail.css?d=20160804" />
-    <script type="text/javascript" src="http://news.u-car.com.tw/js/jquery-min.js"></script>
-    <script type="text/javascript" src="http://news.u-car.com.tw/js/jquery.lazyload.min.1.9.0.js"></script>
-    <script type="text/javascript" src="http://news.u-car.com.tw//js/swfobject.js"></script>
-    <script type="text/javascript" src="http://news.u-car.com.tw/js/jquery.autocomplete.js"></script>
+    <script type="text/javascript" src="https://news.u-car.com.tw/js/jquery-min.js"></script>
+    <script type="text/javascript" src="https://news.u-car.com.tw/js/jquery.lazyload.min.1.9.0.js"></script>
+    <script type="text/javascript" src="https://news.u-car.com.tw//js/swfobject.js"></script>
+    <script type="text/javascript" src="https://news.u-car.com.tw/js/jquery.autocomplete.js"></script>
     <script src="https://www.gstatic.com/swiffy/stable/runtime.js"></script>
-    <script src="http://ad.u-car.com.tw/js/cookie.js"></script>
-    <link rel="stylesheet" type="text/css" href="http://news.u-car.com.tw/css/jquery.autocomplete.css" />
+    <script src="https://ad.u-car.com.tw/js/cookie.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://news.u-car.com.tw/css/jquery.autocomplete.css" />
     <meta property="og:title" content=""/>
     <meta property="og:url" content=""/>
     <meta property="og:image" content=""/>
@@ -132,7 +132,7 @@
     <div id="wrapper">
 		<div class="maincontent">
 			<div id="header" class="clearfix">
-                <h1><a href="http://www.u-car.com.tw/"><img src="http://news.u-car.com.tw/images/title-left.jpg" alt="U-CAR Find your car" /></a></h1>
+                <h1><a href="http://www.u-car.com.tw/"><img src="https://news.u-car.com.tw/images/title-left.jpg" alt="U-CAR Find your car" /></a></h1>
                 <div class="navigator-right clearfix">
                     <div class="member">
 Hi...歡迎光臨！<a href="http://member.u-car.com.tw/member-login.asp?from=http://feature.u-car.com.tw/article.asp?articleid=31872">會員登入</a> -
@@ -166,7 +166,7 @@ Hi...歡迎光臨！<a href="http://member.u-car.com.tw/member-login.asp?from=ht
                 </div>
 			</div>
 				<div class="channel-title clearfix">
-					<img src="http://feature.u-car.com.tw/images/ct-feature.gif" alt="專題報導" />
+					<img src="images/ct-feature.gif" alt="專題報導" />
 					<div class="channel-search">
 						<form method="post" action="/search.asp"><input type="text" name="keywords" id="keywords" class="search-input" style="width:230px;" /><input type="submit" name="" value="搜尋 專題" class="search-button" /></form>
 					</div>
@@ -377,7 +377,7 @@ Hi...歡迎光臨！<a href="http://member.u-car.com.tw/member-login.asp?from=ht
 				
 				
 				<div id="footer">
-					<img src="http://news.u-car.com.tw/images/medaibrilliancesystem_logo.gif" alt="" />
+					<img src="https://news.u-car.com.tw/images/medaibrilliancesystem_logo.gif" alt="" />
 					本站圖文除使用者發表外，屬<strong>旭傳媒</strong>科技(股)版權所有。廣告聯繫：<span style="color:#FF8000;">ad@u-car.com.tw</span><br />
 					c2017 <span>Media</span>Brilliance System Corporation. All Rights Reserved.
 				</div>
