@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 strong {
 	font-weight: bolder;
 }
@@ -93,8 +93,7 @@ strong {
 .articleinfo_r {
 	float: right;
 	text-align: right;
-	width: 50%;
-}
+	width: 50%}
 .author .articleinfo_l {
 	width: 75%;
 }
@@ -260,8 +259,7 @@ p.foreword {
 }
 /*tool*/
 .share {
-	font-size: 13px;
-}
+	font-size: 13px}
 .postcont+.share {
 	padding-top: 25px;
 }
